@@ -1,5 +1,5 @@
 # Cybersecurity-Network-Architecture-Portfolio
-Documenting my journey into Cybersecurity, Network Rngineering, and Security Architecture
+Documenting my journey into Cybersecurity, Network Engineering, and Security Architecture
 
 ## Currently Learning
 Cisco Packet Tracer,
