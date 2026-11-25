@@ -4,5 +4,5 @@ Documenting my journey into Cybersecurity, Network Rngineering, and Security Arc
 ## Currently Learning
 Cisco Packet Tracer,
  Networking fundamentals,
- IP adressing,
+ IP adressing, and
  Network security
